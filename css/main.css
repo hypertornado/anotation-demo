@@ -1,0 +1,15 @@
+
+
+.sign {
+	border: 1px solid red;
+	padding: 2px;
+	margin: 5px;
+}
+
+.sign-group {
+	background: silver;
+}
+
+.sign-single {
+	background: white;
+}
